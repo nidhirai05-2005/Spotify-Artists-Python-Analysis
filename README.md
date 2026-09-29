@@ -5,7 +5,7 @@ This project focuses on analyzing music streaming data of popular artists to ide
 The project follows a complete **Exploratory Data Analysis (EDA)** workflow using Python. The dataset was cleaned, transformed, analyzed statistically, and visualized to extract meaningful insights from the data.
 
 
-## 🎯 Objectives
+## Objectives
 The main objectives of this project are:
 
 * Analyze the total streaming performance of artists.
@@ -19,7 +19,7 @@ The main objectives of this project are:
 * Create meaningful visualizations to communicate the findings.
 
 
-## 📊 Dataset
+## Dataset
 The dataset contains information about **11 music artists** and their streaming performance.
 
 ### Main Features
@@ -41,7 +41,7 @@ The dataset contains information about **11 music artists** and their streaming 
 | % of Collaborative Streams | Percentage of total streams from collaborations |
 
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 The project was developed using **Python**.
 
 
@@ -53,7 +53,7 @@ The project was developed using **Python**.
 * **Jupyter Notebook** — Development and analysis environment.
 
 
-## 🔄 Project Workflow
+## Project Workflow
 The project follows these steps:
 
 Data Collection
@@ -205,7 +205,7 @@ df["Sex"].value_counts()
 ```
 
 
-## 📊 6. Statistical Analysis with NumPy
+## 6. Statistical Analysis with NumPy
 
 NumPy was used to calculate important statistical measures.
 ```python
